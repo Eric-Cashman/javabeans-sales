@@ -1,7 +1,7 @@
 [project]
 name = "javabeans-sales"
 version = "0.1.0"
-description = "Add your description here"
+description = "java beans"
 readme = "README.md"
 authors = [
     { name = "Eric Cashman", email = "sircashmaneric@gmail.com" }
